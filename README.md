@@ -1,1 +1,1 @@
-# homewbrew-litclock
+# homebrew-litclock
